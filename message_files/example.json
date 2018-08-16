@@ -1,0 +1,24 @@
+{
+    "groups": {
+        "family": {
+            "message": "some text to family",
+            "list_of_id": []
+        },
+        "work": {
+            "message": "some text to worker",
+            "list_of_id": []
+        },
+        "friends": {
+            "message": "some text to friends",
+            "list_of_id": []
+        }
+    },
+    "constant_groups": {
+        "other": {
+            "message": "some text to other"
+        },
+        "ignored": {
+            "list_of_id": []
+        }
+    }
+}
