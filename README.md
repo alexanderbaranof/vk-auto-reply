@@ -3,6 +3,7 @@
 
 
 Язык - Python 3.6  
+
 Зависимости 
 - vk_api
 - requests  
